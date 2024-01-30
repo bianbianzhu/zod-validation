@@ -1,0 +1,13 @@
+{
+    "posts": [
+      { "id": "6b3b3581-f6dd-4126-a2ae-2fef0b084640", "title": "a title", "views": 100 },
+      { "id": "ec6a4b53-8039-48c3-9c1d-597847229b14", "title": "another title", "views": 200 }
+    ],
+    "comments": [
+      { "id": "6a50db13-2671-4349-9c4a-3867568b4d2a", "text": "a comment about post 1", "postId": "1" },
+      { "id": "b8089018-3cb0-4a1d-8584-70f01658b1f5", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
